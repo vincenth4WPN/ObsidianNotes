@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "3f3c6fe0616f076c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc0e1272fd684fbc",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4e4843ad928558e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ead24950ff9c602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57bc998972d71010",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c02f898619cd7948",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01a5a70a77744bda",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05937db266c9fa6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5182038daa8ad3d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b0e1f61ba4f72ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f4b7e603d9561c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fc0e1272fd684fbc",
+  "lastOpenFiles": [
+    "The 6 Most Important Keys to Typing in Markdown.md",
+    "Relations.md",
+    "Techniques of Counting.md",
+    "The 8 Most important Settings in Obsidian.md",
+    "Discrete Math.md",
+    "Congruence Relations.md",
+    "Test Homework/Week 8 Homwork.md",
+    "CISC102.md"
+  ]
+}
